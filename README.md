@@ -24,3 +24,7 @@ Misc - Crosshair, hotkey
 Playerlist - Troll Option 
 
 Vehicle list - Troll Option 
+
+AntiBan - AntiCheat Undector
+
+![image](https://github.com/KamuiCheats/KamuiWallHackFivem/assets/87552238/2de6504e-2474-4093-b3f3-def007a6400d)
