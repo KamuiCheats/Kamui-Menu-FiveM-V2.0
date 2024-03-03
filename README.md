@@ -2,14 +2,14 @@
 
 **HOW TO USE**
 
-1. Execute "Kamui WallHack" or "WallHackFiveM.exe" is the same
-2. Join fiveM
-3. Join a server
+
+1. Join a server
+2. Execute "Kamui WallHack"
 4. Enjoy :)
 
 Thank You For Using❤️
 
-**Features**
+#Features
 
 Aimbot - Visible check, magic bullet, adaptive weapon, fov, smooth, distance
 
