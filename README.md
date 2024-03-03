@@ -1,6 +1,4 @@
-# Kamui Universal WallHack For FiveM 📦
-
-**HOW TO USE**
+# HOW TO USE 📜
 
 
 1. Join a server
@@ -9,7 +7,7 @@
 
 Thank You For Using❤️
 
-# Features
+# Features 📦
 
 Aimbot - Visible check, magic bullet, adaptive weapon, fov, smooth, distance
 
