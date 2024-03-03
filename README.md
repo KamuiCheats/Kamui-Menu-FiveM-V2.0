@@ -10,6 +10,7 @@
 Thank You For Using❤️
 
 **Features**
+
 Aimbot - Visible check, magic bullet, adaptive weapon, fov, smooth, distance
 
 Visuals - Visible check, playername, weapon name, box , skeleton, healhbar
