@@ -9,7 +9,7 @@
 
 Thank You For Using❤️
 
-Features
+**Features**
 Aimbot - Visible check, magic bullet, adaptive weapon, fov, smooth, distance
 Visuals - Visible check, playername, weapon name, box , skeleton, healhbar
 Self - Godmod, invisible, anti hs, noclip, no ragdoll, no gravity
