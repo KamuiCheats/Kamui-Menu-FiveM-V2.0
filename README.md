@@ -1,6 +1,6 @@
 # Kamui Menu
 
-## Download 📦
+# Download 📦
 You can download the menu [Here](https://www.mediafire.com/file/2ql90wla76rcdp9/Kamui+Menu.rar/file)
 
 ## HOW TO USE 📜
