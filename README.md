@@ -1,8 +1,8 @@
 # HOW TO USE 📜
 
-
-1. Join a server
-2. Execute "Kamui WallHack"
+1. Open FiveM
+2. Join a server
+3. Execute Kamui Loader
 4. Enjoy :)
 
 Thank You For Using❤️
