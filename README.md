@@ -6,5 +6,4 @@
 3.Join a server
 4.Enjoy :)
 
-
-# Thank You For Using❤️
+Thank You For Using❤️
